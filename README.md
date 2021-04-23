@@ -1,7 +1,11 @@
 # vuetify
 
-Reuse design patterns to maximize my productivity
+This project was made by live coding with Ben Hong, core's Vue team member   
+  on the nice learning platform  
+  https://www.vuemastery.com/
 
+
+Reuse design patterns to maximize my productivity
 
 ``` <v-spacer> </v-spacer> ```  
 is equivalent to  
