@@ -1,5 +1,8 @@
 # vuetify
 
+Reuse design patterns to maximize my productivity
+
+
 ``` <v-spacer> </v-spacer> ```  
 is equivalent to  
 ``` <div class="spacer"></div> ```  
