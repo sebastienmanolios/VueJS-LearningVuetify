@@ -1,44 +1,11 @@
 # vuetify
 
-This project was made by live coding with Ben Hong, core's Vue team member   
+This project was made by live coding with Ben Hong, a core's Vue team's member   
   on the nice learning platform  
   https://www.vuemastery.com/
 
 
 Reuse design patterns to maximize my productivity
-
-``` <v-spacer> </v-spacer> ```  
-is equivalent to  
-``` <div class="spacer"></div> ```  
-
-``` <v-card> ```  
-- serves as a container 
-
-``` <v-card-title> ```  
-- make the heading have proper spacing & positionning
-
-``` <v-card-text> ```  
-- serves as the body of the container
-
-``` <v-form> ```  
-
-``` <v-text-field> ```  
-form text input
-
-``` <v-card-actions> ```  
-``` <v-btn> ```  
-``` <v-spacer> ```    
-- add some inline space
-
-
-
-
-
-
-
-
-
-
 
 ## Project setup
 ```
