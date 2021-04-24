@@ -12,6 +12,7 @@
         :to="link.url"
         >{{ link.label }}
       </v-btn>
+      <v-btn @click="toggleTheme" text rounded>Toggle theme</v-btn>
     </v-app-bar>
     <!-- --------------------------------------------------------------------------------- -->
     <v-content>
@@ -85,5 +86,11 @@ export default {
 
     ]
   }),
+  methods : {
+    toggleTheme() {
+      this.$vuetify.theme.themes.dark.anchor = '#41B883'
+      this.$vuetify.theme.dark =! this.$vuetify.theme.dark
+    }
+  }
 };
 </script>
